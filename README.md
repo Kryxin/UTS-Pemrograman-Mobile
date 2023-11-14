@@ -1,12 +1,12 @@
-# UTS-Pemrograman-Mobile
-## **Repositori ini dibuat untuk memenuhi penilaian tengah semester matakuliah pemrograman mobile**  
+# Tugas-Pemrograman Mobile Pertemuan 6
+## **Repositori ini dibuat untuk memenuhi tugas pertemuan 6 matakuliah pemrograman mobile**  
 Nama           : Dinda Aurelia Zalsabella  
 Nim            : 312210045  
 Kelas          : TI.22.B1  
 Mata Kuliah    : Pemrograman Mobile  
 Dosen Pengampu : Donny Maulana, S.Kom., M.M.S.I.  
-**Tugas UTS : Membuat sebuah tombol yang setiap diklik dapat bertambah angkanya, namun dengan urutan angka fibonacci, lalu dilengkapi dengan fitur toast**  
-berikut adalah link video youtube saya yang menjelaskan aplikasi yang sudah di jalankan (dijalankan pada device menggunakan usb debugging) : [tonton video](https://www.youtube.com/shorts/Fj5d-t8HxHg)  
+**Tugas 6 : Membuat sebuah tombol yang setiap diklik dapat bertambah angkanya, namun dengan urutan angka fibonacci, lalu dilengkapi dengan fitur toast**  
+berikut adalah link video youtube saya yang menjelaskan aplikasi yang sudah di jalankan (dijalankan pada device menggunakan usb debugging) : [tonton video](https://www.youtube.com)  
 <br>
 
 Source Code:  
